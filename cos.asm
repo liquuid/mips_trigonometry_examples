@@ -6,7 +6,6 @@ pot_resultado:   .double 1
 um:              .double 1
 menosum:	 .double -1
 zero:            .double 0
-n:               .double 6
 contador:        .double 0
 acumulador:      .double 1
 
